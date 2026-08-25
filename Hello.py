@@ -5,18 +5,16 @@
 name = input("What is your name? ")
 print("Hello,", name)
 
-my_id = "01403427"
-print("My ID:", my_id)
+my_id = 1403427
+print(f"Integer padded: {my_id:08d}")
+print(f"Two decimals: {my_id:.2f}")
+print(f"Binary: {my_id:b}")
+print(f"Hexadecimal: {my_id:#x}")
 
-my_id_number = int(my_id)
-print("Decimal:", my_id_number)
-print("Binary:", f"{my_id_number:b}")
-print("Hexadecimal:", f"{my_id_number:#x}")
-
-first = int(my_id_number) // 10000000
+first = my_id // 1_000_000
 print("First digit:", first)
 
-last = int(my_id_number) % 10
+last = my_id % 10
 print("Last digit:", last)
 
 result = first + last
