@@ -2,6 +2,7 @@
 # Author: Alexey Konovalov
 # Date: 25.08.2026
 
+
 name = input("What is your name? ")
 print("Hello,", name)
 
