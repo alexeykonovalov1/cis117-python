@@ -3,11 +3,11 @@
 # Date: 26.08.2026
 
 
-# kept wrong intentially below to check if the error is detected by the system:
-word = input("What is your favorite word? ")
-print()
-print("You said:", word)
-print("That's all, Folks!")
+# kept wrong intentionally below to check if the error is detected by the system:
+# word = input("What is your favorite word? ')
+# print()
+# print("You said:", Word)
+# print("That's all, Folks!")
 
 
 # other version of the error below:
