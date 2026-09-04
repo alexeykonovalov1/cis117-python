@@ -15,7 +15,7 @@ print(f"Hexadecimal: {my_id:#x}")
 
 first = my_id // 1000000
 print("First digit:", first)
-
+    
 last = my_id % 10
 print("Last digit:", last)
 
