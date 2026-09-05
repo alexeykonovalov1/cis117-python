@@ -4,6 +4,7 @@
 
 
 # kept wrong intentionally below to check if the error is detected by the system:
+
 # word = input("What is your favorite word? ')
 # print()
 # print("You said:", Word)
@@ -11,6 +12,7 @@
 
 
 # other version of the error below:
+
 # team1 = "Liverpool"
 # score1 = "4"
 # team2 = "Chelsea"

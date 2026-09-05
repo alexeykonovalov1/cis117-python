@@ -29,3 +29,4 @@ print("Total amount: " + str(round(total_amount, 2)))
 print("Total per person: " + str(round(total_per_person, 2)))
 
 print()
+
