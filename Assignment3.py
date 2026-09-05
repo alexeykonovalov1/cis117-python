@@ -1,4 +1,4 @@
-# This is my Python programming Homework 3
+# This is Homework 3
 # Author: Alexey Konovalov
 # Date: 05.09.2026
 
@@ -7,9 +7,9 @@ highway_num = int(input("Enter the highway number: "))
 
 if 1 <= highway_num <= 99:
     if highway_num % 2 == 0:
-        print(f"Highway {highway_num} is a primary east/west highway.")
+        print(f"Interstate {highway_num} is a primary east/west highway.")
     else:
-        print(f"Highway {highway_num} is a primary north/south highway.")
+        print(f"Interstate {highway_num} is a primary north/south highway.")
 
 if 100 <= highway_num <= 999:
     last_digit = highway_num % 100
