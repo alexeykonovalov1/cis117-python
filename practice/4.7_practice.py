@@ -1,4 +1,4 @@
-# This is my nineth Python programming practice file.
+# This is my ninth Python programming practice file.
 # Author: Alexey Konovalov
 # Date: 05.09.2026
 
