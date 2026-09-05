@@ -1,6 +1,5 @@
-# cis117-python-2
-My python projects
+# CIS 117 Python Projects
 
-# CIS 117
 My name is Alexey.
-I am learning programming and GitHub.
+
+I am learning Python and GitHub.
