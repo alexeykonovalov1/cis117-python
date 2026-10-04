@@ -1,4 +1,4 @@
-# Lab 2 task 2
+# Lab 2 task #4
 # Group # 1 7
 # Author: Alexey Konovalov
 # Date: 10/03/2026

@@ -1,7 +1,8 @@
-# Lab 2 task 1
+# Lab 2 task #3
 # Group # 1 7
 # Author: Alexey Konovalov
 # Date: 10/03/2026
+
 
 def tautogram(text):
     """tautogram: a text in which all words start with the same letter """
